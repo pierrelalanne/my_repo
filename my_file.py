@@ -7,3 +7,6 @@ AWS creds
 
     client id =  ABIAK52LPFORPRUCRC22
     CLIENT SECRET = hjshnn5ef2a30565c4654HMSAoaz443d42swljak
+
+GitLab Token:
+glpat-hbPSWxsmKI66cPiVXLGg2m86MQp1OjFxCA.01.0y10dfvlu
